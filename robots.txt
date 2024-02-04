@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://mennir.github.io/ar/sitemap.txt
